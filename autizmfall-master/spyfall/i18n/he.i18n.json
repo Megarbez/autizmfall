@@ -1,27 +1,27 @@
 {
     "ui": {
         "welcome to spyfall": "ברוכים הבאים לספייפול",
-        "new game": "משחק חדש",
-        "join game": "הצטרפות למשחק",
-        "waiting for players": "ממתין לשחקנים נוספים",
-        "access code": "קוד גישה",
+        "new game": "תהיה גבר ותפתח משחק",
+        "join game": "תהיה כוסית ותצטרף למשחק של גבר אחר",
+        "waiting for players": "ממתין לשאר הבני שרמוטות",
+        "access code": "תכניס תקוד או שאני אפתח לך תתחת",
         "join my spyfall game": "הצטרף למשחק ספייפול שלי",
-        "start game": "התחל משחק",
-        "leave game": "יציאה מהמשחק",
+        "start game": "יאללה כבר",
+        "leave game": "אין לי כוח",
         "show hide": "הצג/הסתר",
-        "you are the spy": "את/ה המרגל/ת",
-        "you are not the spy": "את/ה <strong>לא</strong> המרגל/ת",
+        "you are the spy": "את/ה האוטיסט/ית",
+        "you are not the spy": "את/ה <strong>לא</strong> האוטיסט/ית",
         "the location": "המיקום",
-        "your role": "התפקיד שלך",
-        "players": "שחקנים",
-        "first": "ראשון",
-        "location reference": "מיקומים אפשריים",
-        "end game": "סוף המשחק",
+        "your role": "?מי אתה",
+        "players": "הומואים",
+        "first": "ראשון נודר",
+        "location reference": "אוטיסט: תסתכל על המיקומים כדי שתדע איפה יכול להיות שהם",
+        "end game": "אופק הרס את המשחק שוב",
         "enter your name": "הכנס את השם שלך",
         "create game": "אישור",
         "back": "חזרה",
         "enter an access code": "הכנס קוד גישה",
-        "invalid access code": "שגיאה, לא נמצא משחק עם קוד הגישה הזה!",
+        "invalid access code": "אוטיסט, לא רשמת את זה כמו שצריך!",
         "join": "הצטרפות",
         "footer": "<a href='http://international.hobbyworld.ru/catalog/25-spyfall/' target='_blank'>ספייפול</a> נכתב על ידי אלכסנדר אושן, פורסם על ידי <a href='http://international.hobbyworld.ru/' target='_blank'>Hobby World</a>"
     },
@@ -186,114 +186,6 @@
                 "train driver": "נהג רכבת",
                 "stoker": "מסיק תנור",
                 "passenger": "נוסע"
-            },
-            "pirate ship": {
-                "cook": "טבח",
-                "slave": "עבד",
-                "cannoneer": "תותחן",
-                "tied up prisoner": "אסיר כבול",
-                "cabin boy": "נער סיפון",
-                "brave captain": "קפטן אמיץ",
-                "sailor": "מלח"
-            },
-            "polar station": {
-                "medic": "חובש",
-                "expedition leader": "ראש המשלחת",
-                "biologist": "ביולוג",
-                "radioman": "קשר",
-                "hydrologist": "הידרולוג",
-                "meteorologist": "מטארולוג",
-                "geologist": "גאולוג"
-            },
-            "police station": {
-                "detective": "בלש",
-                "lawyer": "עורך דין",
-                "journalist": "עיתונאי",
-                "criminalist": "קרימינולוג",
-                "archivist": "אחראי ארכיון",
-                "criminal": "פושע",
-                "patrol officer": "שוטר סיור"
-            },
-            "restaurant": {
-                "musician": "מוזיקאי",
-                "bouncer": "סדרן",
-                "hostess": "מארחת",
-                "head chef": "שף",
-                "food critic": "מבקר מסעדות",
-                "waiter": "מלצר",
-                "customer": "לקוח"
-            },
-            "school": {
-                "gym teacher": "מורה לספורט",
-                "principal": "מנהל",
-                "security guard": "שומר",
-                "janitor": "שרת",
-                "cafeteria lady": "עובד קפיטריה",
-                "maintenance man": "איש תחזוקה",
-                "student": "תלמיד"
-            },
-            "service station": {
-                "manager": "מנהל",
-                "tire specialist": "פנצ'ר מאכר",
-                "biker": "אופנוען",
-                "car owner": "בעל רכב",
-                "car wash operator": "שוטף רכב",
-                "electrician": "חשמלאי רכב",
-                "auto mechanic": "מכונאי רכב"
-            },
-            "space station": {
-                "engineer": "מהנדס",
-                "alien": "חייזר",
-                "pilot": "טייס",
-                "commander": "מפקד הצוללת",
-                "scientist": "מדען",
-                "doctor": "רופא",
-                "space tourist": "תייר חלל"
-            },
-            "submarine": {
-                "cook": "טבח",
-                "commander": "מפקד התחנה",
-                "sonar technician": "טכנאי סונר",
-                "electronics technician": "טכנאי חשמל",
-                "radioman": "קשר",
-                "navigator": "נווט",
-                "sailor": "מלח"
-            },
-            "supermarket": {
-                "cashier": "קופאית",
-                "butcher": "קצב",
-                "janitor": "איש נקיון",
-                "security guard": "מאבטח",
-                "food sample demonstrator": "מחלק טעימות",
-                "shelf stocker": "מסדר מדפים",
-                "customer": "לקוח"
-            },
-            "theater": {
-                "coat check lady": "אחראית הפקדת מעילים",
-                "prompter": "לחשן",
-                "cashier": "קופאית",
-                "director": "במאי",
-                "actor": "שחקן",
-                "crew man": "איש צוות",
-                "audience member": "אחד מהקהל"
-            },
-            "university": {
-                "graduate student": "דוקטורנט",
-                "professor": "פרופסור",
-                "dean": "דיקן",
-                "psychologist": "פסיכולוג",
-                "maintenance man": "איש תחזוקה",
-                "janitor": "שרת",
-                "student": "סטודנט"
-            },
-            "world war ii squad": {
-                "resistance fighter": "לוחם התנגדות",
-                "radioman": "קשר",
-                "scout": "גשש",
-                "medic": "חובש",
-                "cook": "טבח",
-                "imprisoned nazi": "נאצי שבוי",
-                "soldier": "חייל"
             }
         }
     }
